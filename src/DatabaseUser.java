@@ -10,7 +10,7 @@ public class DatabaseUser
     private int numberOfFemales, numberOfMales, numberOfNON_Binary_Individuals;
     private Profile[] profile;
 
-    //constructor   
+    //constructor
     DatabaseUser() {}
 
     public int countLinesInCSV(String filename)
